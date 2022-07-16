@@ -62,3 +62,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##laraveltask
+##CRUD operation
+##Create events
+Only loggged in users ca create events.
+
+##show active only
+
+only active events are shown; i.e. the date after today.
+
+##show all
+
+all events including inactive events are shown.
+
+##form validation
+
+keyword "required" used for client side verification instead of jQuery validation plugin. 
+
+##delete
+
+deleted operations using ajax.
+
+
